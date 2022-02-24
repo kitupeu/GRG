@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "simplexdomain.com",
+  "Id": "b5fedad5-8c83-4573-8f31-e15f5ed643bf"
+}
